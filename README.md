@@ -3,11 +3,11 @@
 - This personal website is designed to provide an overview of my background as a Computer Science student at Georgia State University. It includes information about my projects, resume, and other relevant professional details. You’ll also find sections for my interests, such as basketball, fishing, and hunting.
 
 **Features:**
-- Responsive Design:
+- **Responsive Design:**
     - The website is fully responsive and adapts to different screen sizes.
-- Interactive UI:
+- **Interactive UI:**
     - Easy-to-navigate interface, with smooth scroll and parallax effects.
-- Project Portfolio:
+- **Project Portfolio:**
     - Includes details of my key projects like:
         - Recipes Around The World: A website sharing recipes from various cultures.
         - Multi-Threaded Web Crawler: A tool to efficiently extract article names from websites.
