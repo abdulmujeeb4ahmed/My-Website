@@ -27,7 +27,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/personal-website.git
+    git clone https://github.com/your-username/My-Website.git
     ```
 2. Navigate to the project folder:
     ```bash
