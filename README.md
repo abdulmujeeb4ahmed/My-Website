@@ -1,38 +1,39 @@
-**Data Illustration Project:**
-- This project analyzes COVID-19 cases in Los Angeles County using Python. The dataset is processed, cleaned, and visualized to provide insights into COVID-19 trends over time.
+**Personal Website:**
+- Welcome to my personal website! This website is built using a template from [HTML5 UP's Massively](https://html5up.net/massively) and customized to showcase my portfolio, projects, and resume.
+- This personal website is designed to provide an overview of my background as a Computer Science student at Georgia State University. It includes information about my projects, resume, and other relevant professional details. You’ll also find sections for my interests, such as basketball, fishing, and hunting.
 
 **Features:**
-- Data Cleaning:
-    - Unnecessary columns are removed, and the dataset is limited to relevant data points.
-- Data Transformation:
-    - Date columns are converted to datetime format, and the data is sorted by date.
-- CSV Export:
-    - The cleaned and sorted dataset is exported as a new CSV file for further use.
-- Visualization:
-    - The project supports generating visualizations using matplotlib.
+- Responsive Design:
+    - The website is fully responsive and adapts to different screen sizes.
+- Interactive UI:
+    - Easy-to-navigate interface, with smooth scroll and parallax effects.
+- Project Portfolio:
+    - Includes details of my key projects like:
+        - Recipes Around The World: A website sharing recipes from various cultures.
+        - Multi-Threaded Web Crawler: A tool to efficiently extract article names from websites.
+        - COVID-19 Data Analysis: A project to analyze and visualize COVID-19 data for Los Angeles County
 
-**Files:**
-- Data_Illustration.py:
-    - Python script that handles data processing, cleaning, and exporting the cleaned dataset.
-- LA_County_COVID_Cases.csv:
-    - Original dataset used for analysis.
+**Technologies Used**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **jQuery**
+- **Font Awesome Icons**
+- **Massively Template by HTML5 UP**
 
-**Dependencies:**
-- This project requires the following Python libraries:
-  - numpy
-  - pandas
-  - matplotlib
 
-You can install the necessary dependencies by running the following command in your terminal:
+**Installation**
+- To get this project up and running on your local machine:
 
-- pip install numpy pandas matplotlib
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/yourusername/personal-website.git
+    ```
+2. Navigate to the project folder:
+    ```bash
+    cd personal-website
+    ```
+3. Open the `index.html` file in your preferred web browser.
 
-**Usage:**
-- Clone the repository by running the following command in your terminal:
-  - git clone https://github.com/your-username/recipe-website.git
-
-- Make sure you have the dataset (LA_County_COVID_Cases.csv) in the same directory as the script.
-- Run the Python script:
-  - python Data_Illustration.py
-
-- The processed data will be saved as sorted_file.csv, and the cleaned DataFrame will be displayed in the console.
+**License**
+- This project is licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) as provided by HTML5 UP. You are free to use this template for both personal and commercial projects, provided you give credit to the original authors.
